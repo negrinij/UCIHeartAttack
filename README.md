@@ -13,3 +13,5 @@ Key Remarks:
 - Data Scaling, OneHotEncoding and the use of KMean for the creation of new features did not improve model generalisation
 - In the training set results, the model shows a tendency for False Positives
 - Best Model is Logistic Regression with 89,7% Accuracy. The models were finely tuned with Optuna Library
+
+![](/UCI.png)
